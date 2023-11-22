@@ -1,0 +1,26 @@
+/* applies to entire website */
+*{
+    background-color: #1b1b1b;
+    color:white;
+}
+
+h1{
+    color: yellowgreen;
+    text-align: center;
+}
+
+#countdown h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    color:#30F300;
+    font-size: 100px;
+    padding:0;
+    margin:0;
+    border:0;
+}
+
+.container{
+    text-align: center;
+    width: 80%; 
+    margin:auto;
+}
